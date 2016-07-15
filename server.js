@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 //setup APP
 app = express();
 app.use(bodyParser.json());
-app.use(express.static(path.join(__dirname, '/client')));
+app.use(express.static(path.join(__dirname, '/')));
 // require('./server/config/mongoose.js');
 // require('./server/config/routes.js')(app);
 //static files are used by the frontend / Angular
