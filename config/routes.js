@@ -4,6 +4,9 @@ myApp.config(function($routeProvider){
     .when('/',{
       templateUrl:'partials/main.html'
     })
+    .when('/test',{
+      templateUrl:'http://www.google.com'
+    })
     .otherwise({
       redirectTo:'/'
     })
