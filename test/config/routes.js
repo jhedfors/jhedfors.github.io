@@ -2,7 +2,7 @@ var myApp = angular.module('myApp',['ngRoute','ngMessages'])
 myApp.config(function($routeProvider){
   $routeProvider
     .when('/',{
-      templateUrl:'partials/mainx.html'
+      templateUrl:'partials/main.html'
     })
     // .when('/google',{
     //   redirectTo: function() {
