@@ -4,10 +4,10 @@ myApp.config(function($routeProvider){
     .when('/',{
       templateUrl:'partials/main.html'
     })
-    .when('/google',{
-      redirectTo: function() {
-            window.location = 'http://google.com';
-    })
+    // .when('/google',{
+    //   redirectTo: function() {
+    //         window.location = 'http://google.com';
+    // })
     .otherwise({
       redirectTo:'/'
     })
