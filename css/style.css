@@ -1,11 +1,44 @@
 
 body{
   background-color: black;
+  color: white;
 }
 
-h1{
+h1.title{
   text-align: center;
   color: white;
+}
+
+a{
+  /*text-decoration: none;*/
+  color: white;
+}
+
+.navigation h3{
+  text-align: center;
+}
+
+.navigation .links a{
+  text-align: center;
+  margin: 0px;
+
+}
+div.navigation{
+  width: 115px;
+  height: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+.nav_links{
+  text-align: center;
+}
+
+div.content{
+  width: 70%;
+  height: 100%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 50px;
 }
 
 div.profile{
@@ -16,10 +49,18 @@ div.profile{
   border-radius: 100px;
   margin:auto;
 }
+div.mini_profile{
+  background-image: url('/images/profile.jpg');
+  background-size: 70px 70px;
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+  margin:auto;
+}
 div.links{
   text-align: center;
-  margin: 40px;
-
+  margin-top: 20px;
+  /*margin: 40px;*/
 }
 .links img{
   border: 1px solid white;
@@ -29,11 +70,24 @@ div.links{
 .links a{
   display: inline-block;
   width: 107px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
 }
 
 img.github{
   background: white;
   padding-left: 10px;
   padding-right: 10px;
+}
 
+a.projects{
+  vertical-align: top;
+  font-size: 18px;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 5px;
+  color:white;
+  font-weight: bold;
+  text-decoration: none;
 }
