@@ -1,7 +1,11 @@
 (function($){
   $(function(){
 
-    // $('.button-collapse').sideNav();
+    $('select').material_select();
+    $('.modal-trigger').leanModal({
+      starting_top: '0%', // Starting top style attribute
+      ending_top: '5%', // Ending top style attribute
+    });
     $('.parallax').parallax();
 
   }); // end of document ready
