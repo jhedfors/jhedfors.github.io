@@ -101,7 +101,9 @@ html, body, .ng-controller {
 }
 
 .myPanel a{
+  display: inline-block;
   margin-right: 10px;
+  margin-top: 10px;
 }
 /*.projects{
   color: black;
