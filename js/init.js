@@ -8,5 +8,17 @@
     });
     $('.parallax').parallax();
 
+    $('a[href^="#p"]').on('click', function(event) {
+
+        var target = $(this.getAttribute('href'));
+
+        if( target.length ) {
+            event.preventDefault();
+            $('html, body').stop().animate({
+                scrollTop: target.offset().top
+            }, 2000);
+        }
+
+    });
   }); // end of document ready
 })(jQuery); // end of jQuery name space
