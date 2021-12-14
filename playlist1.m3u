@@ -1,0 +1,113 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/69wkng21m7t8jgzyq8gd"
+#EXTINF:-1 tvg-id="WCCODT.us" tvg-name="CBSN 4 Minnesota MN (WCCO) (720p)" tvg-logo="https://i.imgur.com/HiEBhR4.png" group-title="United States",CBSN 4 Minnesota MN (WCCO) (720p)
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 5 Minneapolis MN (KSTP) (720p) " tvg-logo="" group-title="United States",ABC 5 Minneapolis MN (KSTP) (720p) 
+https://iptv-all.lanesh4d0w.repl.co/united-states/kstp-tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 9 Minneapolis-St. Paul MN (KMSP) (720p) v1" tvg-logo="" group-title="United States",FOX 9 Minneapolis-St. Paul MN (KMSP) (720p) v1
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 9 Minneapolis-St. Paul MN (KMSP) (720p) v2" tvg-logo="" group-title="United States",FOX 9 Minneapolis-St. Paul MN (KMSP) (720p) v2
+https://iptv-all.lanesh4d0w.repl.co/united-states/fox-minneapolis
+#EXTINF:-1 tvg-id="KARETV.us" tvg-name="NBC 11 Minneapolis MN (KARE) (1080p)" tvg-logo="https://i.imgur.com/oyLgNR6.jpg" group-title="United States",NBC 11 Minneapolis MN (KARE) (1080p)
+https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KTCATV.us" tvg-name="PBS Minneapolis MN (KTCA) (1080p) [Geo-blocked]" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="United States",PBS Minneapolis MN (KTCA) (1080p) [Geo-blocked]
+https://ktcadt.lls.pbs.org/out/v1/21103812ea504393b7f0d521a8b37ab7/index.m3u8
+#EXTINF:-1 tvg-id="STIRRCityMinneapolis.us" tvg-name="STIRR City Minneapolis (720p)" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="United States",STIRR City Minneapolis (720p)
+https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="United States",MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC (720p) [Not 24/7]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="United States",MSNBC (720p) [Not 24/7]
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (Pluto)" tvg-logo="http://cdn.cnn.com/cnn/2019/images/04/22/cnn.pluto.tv.jpg" group-title="United States",CNN (Pluto)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="United States",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10146_dark_360w_270h.png" group-title="United States",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News Now (1080p)" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="United States",NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News (1080p)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="United States",ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN (720p)" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="United States",CBSN (720p)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCNET.us" tvg-name="CNET (Pluto)" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="United States",CNET (Pluto)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56283c8769ba54637dea0464&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=228&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVThisOldHouse.us" tvg-name="Pluto TV This Old House (720p)" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="United States",Pluto TV This Old House (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e791b7dba3b2ae990ab2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=618&terminate=false&userId=
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="United States",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuji TV" tvg-logo="" group-title="Japan",Fuji TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK General TV" tvg-logo="" group-title="Japan",NHK General TV
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Japan",Animax Japan
+https://redlabmcdn.s.llnwi.net/jp04/bs14hd/index.mpd
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV (540p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1024px-NHK_General_TV_logo.svg.png" group-title="Japan",NHK General TV (540p) [Not 24/7]
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan (1080p)" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan (720p)" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="Japan",CGNTV Japan (720p)
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV (720p)" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Japan",GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="GTNTyphome.jp" tvg-name="GTN Typhome (English Subs) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="Japan",GTN Typhome (English Subs) (720p) [Not 24/7]
+https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
+#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-name="Gunma TV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="Japan",Gunma TV (720p)
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="BS12.jp" tvg-name="BS 12" tvg-logo="" group-title="Japan",BS 12
+https://redlabmcdn.s.llnwi.net/jp01/bs08hd/index.mpd
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="NTV News24 (480p)" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-logo="" group-title="Japan",BS Asahi
+https://redlabmcdn.s.llnwi.net/jp01/bs04hd/index.mpd
+#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-name="BS Fuji TV" tvg-logo="" group-title="Japan",BS Fuji TV
+https://redlabmcdn.s.llnwi.net/jp01/bs07hd/index.mpd
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-name="Tokyo MX (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX (720p)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-name="BS Nippon TV" tvg-logo="" group-title="Japan",BS Nippon TV
+https://redlabmcdn.s.llnwi.net/jp01/bs03hd/index.mpd
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1 (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX1 (360p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="" group-title="Japan",BS TV Tokyo
+https://redlabmcdn.s.llnwi.net/jp01/bs06hd/index.mpd
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2 (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-logo="" group-title="Japan",BS-TBS
+https://redlabmcdn.s.llnwi.net/jp01/bs05hd/index.mpd
+#EXTINF:-1 tvg-id="WeatherChanneluezaniyusuBSWNI.jp" tvg-name="Weather Channel (ウェザーニュース) (BS | WNI) (720p)" tvg-logo="https://external-preview.redd.it/SDJxpTKMxjoV53iBulGOWoDzpp8yuTHBjmTjVC5tWwg.jpg?width=640&crop=smart&auto=webp&s=8a3989a9e709093054fa7df0360e705e2929ba01" group-title="Japan",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X (480p) [Not 24/7]" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Japan",AT-X (480p) [Not 24/7]
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-name="Disney Channel Japan (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/H2O9F2E.png" group-title="Japan",Disney Channel Japan (720p) [Not 24/7]
+https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World (540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Japan",New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" tvg-logo="" group-title="Japan",Fuji TV
+https://redlabmcdn.s.llnwi.net/jp01/ryowa7hd/index.mpd
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="" group-title="Japan",J Sports 1
+https://redlabmcdn.s.llnwi.net/jp04/bs15hd/index.mpd
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-logo="" group-title="Japan",J Sports 2
+https://redlabmcdn.s.llnwi.net/jp04/bs11hd/index.mpd
+#EXTINF:-1 tvg-id="JSports3.jp" tvg-name="J Sports 3" tvg-logo="" group-title="Japan",J Sports 3
+https://redlabmcdn.s.llnwi.net/jp04/bs12hd/index.mpd
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-name="National Geographic Wild Asia (720p) [Not 24/7]" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Japan",National Geographic Wild Asia (720p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-logo="" group-title="Japan",NHK BS1
+https://redlabmcdn.s.llnwi.net/jp01/bs01hd/index.mpd
+#EXTINF:-1 tvg-id="NHKBSP.jp" tvg-name="NHK BSP" tvg-logo="" group-title="Japan",NHK BSP
+https://redlabmcdn.s.llnwi.net/jp01/bs02hd/index.mpd
+#EXTINF:-1 tvg-id="NHKE.jp" tvg-name="NHK E" tvg-logo="" group-title="Japan",NHK E
+https://redlabmcdn.s.llnwi.net/jp01/ryowa1hd/index.mpd
+#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G" tvg-logo="" group-title="Japan",NHK G
+https://redlabmcdn.s.llnwi.net/jp01/ryowa2hd/index.mpd
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="Japan",Nippon TV
+https://redlabmcdn.s.llnwi.net/jp01/ryowa3hd/index.mpd
+#EXTINF:-1 tvg-id="Star1.jp" tvg-name="Star 1" tvg-logo="" group-title="Japan",Star 1
+https://redlabmcdn.s.llnwi.net/jp04/bs09hd/index.mpd
+#EXTINF:-1 tvg-id="Star2.jp" tvg-name="Star 2" tvg-logo="" group-title="Japan",Star 2
+https://redlabmcdn.s.llnwi.net/jp04/bs10hd/index.mpd
+#EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-logo="" group-title="Japan",TBS
+https://redlabmcdn.s.llnwi.net/jp01/ryowa5hd/index.mpd
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="" group-title="Japan",TV Asahi
+https://redlabmcdn.s.llnwi.net/jp01/ryowa4hd/index.mpd
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Japan",TV Tokyo
+https://redlabmcdn.s.llnwi.net/jp01/ryowa6hd/index.mpd
